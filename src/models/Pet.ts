@@ -6,7 +6,7 @@ type Pet = {
     image: string,
     name: string,
     color: string,
-    sex: PetType
+    sex: PetSex
 };
 
 const data: Pet[] = [
